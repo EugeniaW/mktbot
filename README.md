@@ -4,10 +4,10 @@ AI-powered marketing research bot for Telegram. Generates structured Markdown re
 
  Features
 
-- 🔍 `/research <topic>` - Deep research with structured Markdown reports
-- ⚡ `/quick <topic>` - Fast search summaries  
-- 🤖 Powered by Tavily AI Search + Markdown formatting
-- 📝 Professional report output with sources
+-  `/research <topic>` - Deep research with structured Markdown reports
+-  `/quick <topic>` - Fast search summaries  
+-   Powered by Tavily AI Search + Markdown formatting
+-  Professional report output with sources
 
  Quick Start
 
